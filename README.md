@@ -12,5 +12,3 @@ Track Watched Movies: Keep a record of all the movies you’ve watched, along wi
 User Ratings: Rate the movies you’ve watched and see your overall movie-watching stats.
 
 Discover, track, and rate your favorite movies with Movie Tracker!
-
-Feel free to modify it as needed! If you need any more help, just let me know. 😊
